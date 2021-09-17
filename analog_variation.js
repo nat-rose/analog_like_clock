@@ -1,4 +1,5 @@
 const UPDATE_INTERVAL_MILLIS = 750
+ // changes speed of time 1000 to 750 ms
 
 const hourHand = document.querySelector('[data-hour-hand]')
 const minuteHand = document.querySelector('[data-minute-hand]')
